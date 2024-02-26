@@ -9,8 +9,8 @@
   </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-snake-contrib/github-contribution-grid-snake-dark.svg.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-snake-contrib/ggithub-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="/profile-snake-contrib/github-contribution-grid-snake-dark.svg.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="/profile-snake-contrib/ggithub-contribution-grid-snake.svg" />
   <img alt="github-snake" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
 </picture>
 
