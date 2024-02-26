@@ -4,7 +4,7 @@
 
   <div>
     <a href="#">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&color=F78B11&center=true&size=27&lines=console.log(%22Hello%2C%20World%22);祝你天天开心!" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝你天天开心!&center=true&size=27&color=F78B11" />
     </a>
   </div>
 
