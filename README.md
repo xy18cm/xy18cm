@@ -8,8 +8,8 @@
     </a>
   </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xy18cm/xy18cm/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xy18cm/xy18cm/main/profile-snake-contrib/ggithub-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xy18cm/xy18cm/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xy18cm/xy18cm/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/xy18cm/xy18cm/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
 </picture>
 
