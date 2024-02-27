@@ -3,19 +3,16 @@
 
 
   <div align="center">
-  	<div>
     <a href="#">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝你天天开心!&center=true&size=27&color=F78B11" />
     </a>
   </div>
-  
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xy18cm/xy18cm/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xy18cm/xy18cm/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/xy18cm/xy18cm/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    </picture>
-</div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xy18cm/xy18cm/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xy18cm/xy18cm/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/xy18cm/xy18cm/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
+</picture>
 #  🙋 Hello
 
 <table>
